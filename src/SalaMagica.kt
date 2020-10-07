@@ -1,0 +1,1 @@
+class SalaMagica(nSala: Int, peligro: Int, var peligroMagico: Int) : Sala(nSala, peligro)

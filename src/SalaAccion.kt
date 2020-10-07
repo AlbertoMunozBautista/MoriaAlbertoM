@@ -1,0 +1,1 @@
+class SalaAccion(nSala: Int, peligro: Int, var flechas: Int, var enemigos: Int) : Sala(nSala, peligro)
